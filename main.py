@@ -998,7 +998,7 @@ async def TcPChaT(ip, port, AutHToKen, key_val, iv_val, LoGinDaTaUncRypTinG, rea
         await asyncio.sleep(reconnect_delay)
 
 async def MaiiiinE():
-    Uid, Pw = '4258459953','8FE90F8621D9338BCD5766AF28F1B110A5F5E449A3EE82CAEC39376613E1CC90'
+    Uid, Pw = '4417854156','ansh05_WB2XV_BY_SPIDEERIO_GAMING_93'
 
     open_id, access_token = await GeNeRaTeAccEss(Uid, Pw)
     if not open_id or not access_token:
@@ -1049,7 +1049,7 @@ async def MaiiiinE():
     print('')
     print(f" - BoT STarTinG And OnLine on TarGet : {TarGeT} | BOT NAME : {acc_name}\n")
     print(f" - BoT sTaTus > GooD | OnLinE ! (:")    
-    print(f" - Subscribe > Bigbullcheats | Gaming ! (:")    
+    print(f" - Subscribe > Bigbullcheats | ofc ! (:")    
     await asyncio.gather(task1, task2)
 
 async def StarTinG():
